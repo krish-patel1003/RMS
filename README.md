@@ -38,8 +38,6 @@
 
 4. **HR Administrators:** Oversee system configurations, user access, and compliance.
 
-5. **IT Team:** Manage system integration, security, and technical support.
-
 **Major Risks:**
 
 1. **Data Security:** Potential breaches leading to loss of sensitive candidate information.
