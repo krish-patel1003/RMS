@@ -1,5 +1,4 @@
-# RMS
-**Recruitment Management System (RMS)**
+# Recruitment Management System (RMS)
 
 **Project Objectives:**
 
