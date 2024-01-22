@@ -55,5 +55,3 @@
 5. **Scalability:** Ability of the system to handle an increasing volume of job postings and applicants.
 
 Addressing these risks requires robust security measures, comprehensive training, legal reviews, and scalability planning.
-
-Remember, this is a broad overview, and specific details would depend on the organization's size, industry, and unique requirements.
