@@ -28,6 +28,8 @@
 
 7. **Integration:** Integrate with other HR systems, like payroll and employee management, for seamless data flow.
 
+8. **Background Verification**: After recruitment, background verification of the candidate.
+
 **Stakeholders:**
 
 1. **Recruiters:** Primary users managing the recruitment process.
