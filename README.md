@@ -40,6 +40,8 @@
 
 4. **HR Administrators:** Oversee system configurations, user access, and compliance.
 
+5. **Verification Peers:** Peers who verify, candidate's information.
+
 **Major Risks:**
 
 1. **Data Security:** Potential breaches leading to loss of sensitive candidate information.
