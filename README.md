@@ -40,7 +40,7 @@
 
 4. **HR Administrators:** Oversee system configurations, user access, and compliance.
 
-5. **Verification Peers:** Peers who verify, candidate's information.
+5. **Verification Peers:** Peers who verify, the candidate's information.
 
 **Major Risks:**
 
