@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter Incrementer</title>
+</head>
+<body>
+    <h1>Counter: <span id="counter">0</span></h1>
+    <button id="incrementBtn">Increment</button>
+    <script>
+        // Intentionally introducing bugs
+        let counterValue = 0;
+
+        // Function to increment counter
+        function incrementCounter() {
+            counterValue += 1; // Bug: increment is skipped due to a syntax issue below
+            document.getElementById('counter').innerText = counter; // Bug: Wrong variable name
+        }
+
+        // Event listener to increment counter
+        document.querySelector('#increment').addEventListner('click', incrementCounter); // Bug: Wrong selector and typo in addEventListener
+    </script>
+</body>
+</html>
